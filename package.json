@@ -1,6 +1,6 @@
 {
   "homepage": "https://gsergio96.github.io/gsmg-stream-website/",
-  "name": "hello-world",
+  "name": "gsmg-stream-website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
